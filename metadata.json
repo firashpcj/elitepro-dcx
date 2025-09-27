@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI PageSpeed Analyzer",
+  "description": "An AI-powered tool that analyzes website performance and provides actionable insights, similar to Google's PageSpeed Insights. Enter a URL to receive a detailed breakdown of performance, accessibility, best practices, and SEO scores, along with specific recommendations for improvement.",
+  "requestFramePermissions": []
+}
